@@ -1,5 +1,6 @@
 
-##Retail Sales Analysis Using Google BigQuery##
+**Retail Sales Analysis Using Google BigQuery**
+
 **Overview**
 
 This project contains SQL solutions for the BrightLearn Google BigQuery Practical Exercise using the Retail Sales Dataset. The objective was to demonstrate proficiency in SQL querying, data filtering, aggregation, conditional logic, and business insight generation using Google BigQuery.
